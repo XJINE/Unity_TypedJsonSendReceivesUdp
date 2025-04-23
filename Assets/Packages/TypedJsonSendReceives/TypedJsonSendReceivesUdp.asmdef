@@ -1,0 +1,18 @@
+{
+    "name": "TypedJsonSendReceivesUdp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9b4600c5a35d76c44b53cc6555e57bd0",
+        "GUID:5ed255fe4c61dff4c8b445900c005f67",
+        "GUID:4a2ee44159b9a4046bf51c8b2f3856cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
